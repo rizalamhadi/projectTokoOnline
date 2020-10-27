@@ -1,0 +1,23 @@
+{
+  "name": "projecttokoonline",
+  "version": "1.0.0",
+  "description": "php mysql api ongkir diskon",
+  "main": "index.php",
+  "scripts": {
+    "test": "test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizalamhadi/projectTokoOnline.git"
+  },
+  "keywords": [
+    "php",
+    "tokoonline"
+  ],
+  "author": "rizalamhadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rizalamhadi/projectTokoOnline/issues"
+  },
+  "homepage": "https://github.com/rizalamhadi/projectTokoOnline#readme"
+}
